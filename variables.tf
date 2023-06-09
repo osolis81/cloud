@@ -52,3 +52,14 @@ variable "ingress_ports_list" {
   description = "Lista de puertos de ingress "
   type        = list(number)
 }
+
+
+# para terraform cloud
+
+variable "access_key" {
+
+}
+
+variable "secret_key" {
+
+}
