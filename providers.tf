@@ -12,7 +12,7 @@ terraform {
     }
   }
   # quiere decir que cualquier subversion de la 1.4 puede ser utilizada
-  required_version = "~>1.4.0"
+  required_version = "~>1.3.9"
 
 }
 
